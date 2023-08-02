@@ -13,6 +13,9 @@ const click = new Audio("assets/music/click.wav")
 const con = new Audio("assets/music/alert.wav")
 const okay = new Audio("assets/music/positive.wav")
 const no = new Audio("assets/music/negative.wav")
+const startup = new Audio("assets/music/startup.wav)
+const shutdown = new Audio("assets/music/exit.wav")
+const harddrivestart = new Audio("assets/music/hddstartup.wav")
 
 //Operations
 /* Reseting window */
